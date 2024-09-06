@@ -6,6 +6,7 @@ import { CiShoppingCart } from "react-icons/ci";
 import { CiMenuBurger } from "react-icons/ci";
 import { RxCross1 } from "react-icons/rx";
 import { shopContext } from "../context/stolen";
+import img from '../../public/logo.svg'
 
 function Navbar() {
   const { setShowSearch, getCartCount } = useContext(shopContext);
@@ -13,7 +14,7 @@ function Navbar() {
   return (
     <div className="flex items-center justify-between py-5 font-medium">
       <Link to="/" className="flex flex-col items-center justify-center">
-        <img src="../../public/logo.svg" className="w-14" alt="None" />
+        <img src={img} className="w-14" alt="None" />
         <span>Stolen Beauty</span>
       </Link>
 
