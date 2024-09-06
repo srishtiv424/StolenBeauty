@@ -10,8 +10,9 @@ function NewsLetterBox() {
         Subscribe now &get 20% off
       </p>
       <p className="text-gray-400 mt-3">
-        loremipsumfas;dldkjflk;sajl;khsg;lsdakg a;jfdlas dgalsdjf ;lasf asldjgk;
-        askdjfalkjgkasrishti is a good girl .
+        Sign up for our newsletter to receive exclusive updates, sneak peeks of
+        new collections, and special offers tailored just for you. Join the
+        Stolen Beauty community today!
       </p>
 
       <form

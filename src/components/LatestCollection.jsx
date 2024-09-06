@@ -16,9 +16,8 @@ function LatestCollection() {
         <div className="text-center py-8 text-3xl">
           <Title text1={"LATEST"} text2={"COLLECTION"} />
           <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-            orem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s
+            Unveil Your Radiance Discover the Latest Collection Where Beauty
+            Meets Elegance!
           </p>
         </div>
       </div>
